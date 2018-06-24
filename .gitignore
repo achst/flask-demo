@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+main
+*.log
+*.pyc
+log/
+config/conf.py
+config/devconf.py
+
